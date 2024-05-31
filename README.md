@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN4Z25oNnlkbWw4dHV2N3hwOWVoMm55ZWRmMmx3em51ZWtpOWE5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
 
 ## Hi there 👋
 
