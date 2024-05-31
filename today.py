@@ -1,6 +1,6 @@
 import datetime
-from dateutil import relativedelta
-import requests
+from dateutil import relativedelta # type: ignore
+import requests # type: ignore
 import os
 from xml.dom import minidom
 import time
