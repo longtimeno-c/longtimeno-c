@@ -1,52 +1,53 @@
 # 👋 Hey, I'm Tristan
-Im a light tinker in code and have developed projects such as Missile Wars a multiplatform geolocaiton game. 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flongtimeno-c&count_bg=%233139E7&title_bg=%23111113&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+I'm a full-stack dev and creative technologist — the kind of person who builds **multiplatform geolocation games**, automates livestream chaos, and optimizes backends at 2 AM because… why not?
 
-<!--![longtimeno-c's GitHub stats](https://github-readme-stats.vercel.app/api?username=longtimeno-c&show_icons=true&custom_title=My+Stats)
---->
+🧨 Creator of [Missile Wars Revival](https://github.com/missilewarsrevival), a real-time, cross-platform location-based game.  
+🎮 Also building streaming tools, AI-driven apps, and stuff that probably shouldn't work (but does).
 
+---
 
-<div align="center">
+## 🧰 Tech Toolbox
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=longtimeno-c&show_icons=true&custom_title=My+Stats&include_all_commits=false&line_height=20&theme=tokyonight&text_color=cfdaff&title_color=5e64ff&icon_color=7d81ff&border_color=cfdaff&include_orgs=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longtimeno-c&layout=compact&card_width=333&theme=tokyonight&text_color=cfdaff&title_color=5e64ff&border_color=cfdaff)
-</div>
-
-<!--
 <p align="left">
-  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3661ff?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-3661ff?style=flat-square&logo=java&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-424bed?style=flat-square&logo=c%2B%2B&logoColor=white" />  
-  <img alt="github" src="https://img.shields.io/badge/-Github-2e3ad2?style=flat-square&logo=github&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-7639fa?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-9d1ced?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="OBS" src="https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obsstudio&logoColor=white" />
 </p>
 
-## Who Am I?
-- I'm just your everyday average tech enthusist.
-- I do many hardware / software projects
+---
 
-<br />
+## 📊 GitHub Stats
 
-## What I'm Learning
-- Web / App Development using React and Next.js with expo. 
-- HTML and CSS
-- Javascript
-- I am focussing on learning more advanced C++ to better my skills. 
-<br />
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=longtimeno-c&show_icons=true&hide_rank=false&title_color=5e64ff&icon_color=7d81ff&text_color=cfdaff&bg_color=0,1a1b27,1a1b27&border_color=2f2f2f&theme=tokyonight&include_orgs=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longtimeno-c&layout=compact&langs_count=10&title_color=5e64ff&text_color=cfdaff&bg_color=0,1a1b27,1a1b27&border_color=2f2f2f&theme=tokyonight" height="165" />
+</div>
 
+---
 
-[Portfolio](https://www.tristan.com/)
-<br/>
+## 🌐 My Portfolio  
+📎 [tristan.com](https://www.tristans.club/)
 
-<!--
-## Projects
-- [MissileWars](https://github.com/missilewarsrevival): Lead developer and founder.
-<br />
+---
 
+## 🛠 Current Projects
+- 🛰 **[Missile Wars](https://github.com/missilewarsrevival)** — Lead developer of this real-time, map-based game powered by React Native & Sanity.
+- 🎥 **[Stream150](https://stream150.com)** — A 150-hour tech marathon challenge featuring 5 PCs, OBS plugins, multi-cam chaos & donation-driven events.
 
-## Awards/Honors
-- Part of the team that won the CALICO '22 Programming Competition
+---
+
+## 🧠 Currently Learning
+- Framer Motion, animation-driven UI/UX
+- AI - Tinkering
+- Advanced TypeScript + compiler API internals
+- C++ for performance-critical systems
+
+---
+
+<!-- Want to track activity?
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=longtimeno-c&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 -->
