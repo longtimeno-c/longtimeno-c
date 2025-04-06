@@ -30,7 +30,7 @@ I'm a full-stack dev and creative technologist — the kind of person who builds
 ---
 
 ## 🌐 My Portfolio  
-📎 [tristan.com](https://www.tristans.club/)
+📎 [tristans.club](https://www.tristans.club/)
 
 ---
 
