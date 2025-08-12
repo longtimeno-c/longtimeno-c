@@ -36,7 +36,7 @@ I'm a full-stack dev and creative technologist — the kind of person who builds
 
 ## 🛠 Current Projects
 - 🛰 **[Missile Wars](https://github.com/missilewarsrevival)** — Lead developer of this real-time, map-based game powered by React Native & Sanity.
-- 🎥 **[Stream150](https://stream150.com)** — A 150-hour tech marathon challenge featuring 5 PCs, OBS plugins, multi-cam chaos & donation-driven events.
+- 📚 **[Advanced Tutoring Platform](https://advancedtutoring.uk)** — Full-stack tutoring system with role-based dashboards, scheduling, payments, and real-time video calls.s.
 
 ---
 
