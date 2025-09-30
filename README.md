@@ -2,7 +2,7 @@
 
 I'm a full-stack dev and creative technologist — the kind of person who builds **multiplatform geolocation games**, automates livestream chaos, and optimizes backends at 2 AM because… why not?
 
-🧨 Creator of [Missile Wars Revival](https://github.com/missilewarsrevival), a real-time, cross-platform location-based game.  
+🧨 Creator of [Missile Wars Revival](https://www.tristans.club/missilewars), a real-time, cross-platform location-based game.  
 🎮 Also building streaming tools, AI-driven apps, and stuff that probably shouldn't work (but does).
 
 ---
@@ -35,7 +35,7 @@ I'm a full-stack dev and creative technologist — the kind of person who builds
 ---
 
 ## 🛠 Current Projects
-- 🛰 **[Missile Wars](https://github.com/missilewarsrevival)** — Lead developer of this real-time, map-based game powered by React Native & Sanity.
+- 🛰 **[Missile Wars](https://www.tristans.club/missilewars)** — Lead developer of this real-time, map-based game powered by React Native & Sanity.
 - 📚 **[Advanced Tutoring Platform](https://advancedtutoring.uk)** — Full-stack tutoring system with role-based dashboards, scheduling, payments, and real-time video calls.s.
 
 ---
