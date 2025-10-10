@@ -1,48 +1,70 @@
-# 👋 Hey, I'm Tristan
+# 👋 Hey, I’m Tristan Hill  
 
-I'm a full-stack dev and creative technologist — the kind of person who builds **multiplatform geolocation games**, automates livestream chaos, and optimizes backends at 2 AM because… why not?
+I’m a full-stack developer, creative technologist, and general tinkerer — the sort of person who builds **multiplatform geolocation games**, automates **livestream chaos**, and re-architects **backends at 2 AM** because... well, it’s fun.  
 
-🧨 Creator of [Missile Wars Revival](https://www.tristans.club/missilewars), a real-time, cross-platform location-based game.  
-🎮 Also building streaming tools, AI-driven apps, and stuff that probably shouldn't work (but does).
+🚀 Founder of **Oakforge Studios**, where I develop tools, games, and systems that blend creativity with code.  
+🧨 Creator of **[Missile Wars Revival](https://www.tristans.club/missilewars)** — a real-time, cross-platform, location-based strategy game.  
+🧠 Currently building **[Advanced Tutoring](https://advancedtutoring.uk)** — a full-stack tutoring ecosystem with scheduling, AI-assisted learning, and real-time video calls.  
+🎮 Also working on streaming plugins, AI-driven apps, and ideas that *probably shouldn’t work* (but do).  
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Tech Stack  
 
 <p align="left">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="OBS" src="https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obsstudio&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="OBS" src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Featured Projects  
+
+### 🛰 [Missile Wars Revival](https://www.tristans.club/missilewars)
+A cross-platform, real-time, map-based strategy game blending GPS data, WebSockets, and React Native.  
+> Open-source, multiplayer, and running on a fully custom backend built from scratch.
+
+### 📚 [Advanced Tutoring Platform](https://advancedtutoring.uk)
+A complete education ecosystem with tutor onboarding, role-based dashboards, scheduling, payments, and AI-assisted study tools.  
+> Built with TypeScript, React Native, Prisma, PostgreSQL, Stripe Connect, and Daily.co for real-time video.  
+
+### 🎥 Stream Tools  
+Custom **OBS plugins**, **replay systems**, and **scene automation utilities** created for multi-room live events — designed for precision, chaos control, and seamless production.
+
+---
+
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=longtimeno-c&show_icons=true&hide_rank=false&title_color=5e64ff&icon_color=7d81ff&text_color=cfdaff&bg_color=0,1a1b27,1a1b27&border_color=2f2f2f&theme=tokyonight&include_orgs=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longtimeno-c&layout=compact&langs_count=10&title_color=5e64ff&text_color=cfdaff&bg_color=0,1a1b27,1a1b27&border_color=2f2f2f&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=longtimeno-c&show_icons=true&title_color=7D81FF&icon_color=7D81FF&text_color=CFCFFF&bg_color=0D1117&border_color=2F2F2F&theme=tokyonight&include_orgs=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longtimeno-c&layout=compact&langs_count=10&title_color=7D81FF&text_color=CFCFFF&bg_color=0D1117&border_color=2F2F2F&theme=tokyonight" height="165" />
 </div>
 
 ---
 
-## 🌐 My Portfolio  
-📎 [tristans.club](https://www.tristans.club/)
+## 🌍 Portfolio & Links  
+
+- 💻 [tristans.club](https://www.tristans.club) – Personal site & project hub  
+- 🧩 [Advanced Tutoring Dev Docs](https://www.tristans.club/advancedtutoring)  
+- 🪄 [Oakforge Studios](https://www.oakforge.uk) *(coming soon)*  
 
 ---
 
-## 🛠 Current Projects
-- 🛰 **[Missile Wars](https://www.tristans.club/missilewars)** — Lead developer of this real-time, map-based game powered by React Native & Sanity.
-- 📚 **[Advanced Tutoring Platform](https://advancedtutoring.uk)** — Full-stack tutoring system with role-based dashboards, scheduling, payments, and real-time video calls. [Dev info](https://www.tristans.club/advancedtutoring)
+## 🧠 Currently Exploring  
+
+- ⚙️ Graph Neural Networks for weather prediction  
+- 🎨 Framer Motion for animation-driven interfaces  
+- 🧩 Advanced TypeScript internals & compiler APIs  
+- ⚡ Native C++ integrations for performance-critical systems  
 
 ---
 
-## 🧠 Currently Learning
-- Framer Motion, animation-driven UI/UX
-- AI - Tinkering
-- Advanced TypeScript + compiler API internals
-- C++ for performance-critical systems
-
+> *"Build first, perfect later. Ship something that works — then make it beautiful."*  
+> — Tristan Hill
