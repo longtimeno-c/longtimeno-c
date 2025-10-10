@@ -36,7 +36,7 @@ I'm a full-stack dev and creative technologist — the kind of person who builds
 
 ## 🛠 Current Projects
 - 🛰 **[Missile Wars](https://www.tristans.club/missilewars)** — Lead developer of this real-time, map-based game powered by React Native & Sanity.
-- 📚 **[Advanced Tutoring Platform](https://advancedtutoring.uk)** — Full-stack tutoring system with role-based dashboards, scheduling, payments, and real-time video calls.s.
+- 📚 **[Advanced Tutoring Platform](https://advancedtutoring.uk)** — Full-stack tutoring system with role-based dashboards, scheduling, payments, and real-time video calls. [Dev info](https://www.tristans.club/advancedtutoring)
 
 ---
 
@@ -46,8 +46,3 @@ I'm a full-stack dev and creative technologist — the kind of person who builds
 - Advanced TypeScript + compiler API internals
 - C++ for performance-critical systems
 
----
-
-<!-- Want to track activity?
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=longtimeno-c&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
--->
