@@ -77,7 +77,6 @@ A social drink-tracking app with achievements, location tracking, and pub-crawl 
 
 ## ⚡ Fun Facts
 
-- I once built a **Gossip Girl-style anonymous website** that got me expelled from school.  
 - I enjoy building things **from scratch rather than using existing tools**.  
 - My ideal projects combine **engineering, chaos, and a slightly ridiculous idea**.
 
