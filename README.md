@@ -1,85 +1,52 @@
-# 👋 Hey, I'm Tristan
+# hey, i'm tristan 👋
 
-I'm a full-stack developer, builder, and chronic tinkerer studying **Computer Science at the University of Reading**.
+english guy from earth, somewhere between a late-night build session and a probably-ill-advised deployment.
+computer science @ university of reading.
+founder of [oakforge studios](https://oakforgestudios.co.uk) — where i build things that probably shouldn't work, but do.
 
-I like building systems that mix **real-time infrastructure, AI, and slightly chaotic ideas** — usually late at night when a sensible person would have gone to sleep.
-
-Founder of **Oakforge Studios**, where I build and experiment with apps ranging from social platforms to location-based games.
-
-Sometimes they work.  
-Sometimes they shouldn't work.  
-Most of the time they end up shipping anyway.
+feel free to poke around the repos. if something breaks, it was like that when you got here.
 
 ---
 
-## 🚀 What I Build
+## what i'm building right now
 
-🛰 **Missile Wars Revival**  
-A real-time geolocation strategy game built with React Native and modern backend infrastructure.
+**Missile Wars Revival** — a real-time geolocation strategy game. you fire missiles at people on a map. they fire back. chaos ensues. built with React Native, WebSockets, and a backend that's holding up better than expected. [missile-wars-revival](https://github.com/Missile-Wars-Revival)
 
-📚 **Advanced Tutoring**  
-A full-stack tutoring platform with scheduling, payments, messaging, and integrated video calls.
+**Advanced Tutoring** — a full-stack tutoring platform with scheduling, stripe payments, video calling, a collaborative whiteboard, and an expo mobile app. basically everything a tutoring platform needs, built from scratch. [advancedtutoring.uk](https://advancedtutoring.uk)
 
-🍺 **Pintless**  
-A social drink-tracking app with achievements, location tracking, and pub-crawl style events.
-
-💻 **Custom tools & experiments**
-- OBS automation plugins
-- WebRTC calling systems
-- AI-powered features and assistants
-- real-time collaborative tools
+**Pintless** — social drink-tracking with achievements, location, pub-crawl events, and a widget. it's exactly what it sounds like. [pintless.oakforgestudios.co.uk](https://pintless.oakforgestudios.co.uk)
 
 ---
 
-## 🧰 Tech Toolbox
+## things i've shipped
 
-<p align="left">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="OBS" src="https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obsstudio&logoColor=white" />
-</p>
+**Stream150** — a live streaming platform i built and ran. custom HLS player, live polls, chat with censoring, websocket reconnection logic, donation button, the works.
 
----
+**OBS tools** — a scene-specific replay cache plugin (C++), an advanced scene switcher (Python), a Discord bot that auto-adds links as OBS scenes, and an NDI live indicator for multi-PC setups.
 
-## 📊 GitHub Stats
+**InfinityWhiteboard** — infinite canvas whiteboard in vanilla JS, because sometimes you just need to draw everywhere.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=longtimeno-c&show_icons=true&hide_rank=false&title_color=5e64ff&icon_color=7d81ff&text_color=cfdaff&bg_color=0,1a1b27,1a1b27&border_color=2f2f2f&theme=tokyonight&include_orgs=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longtimeno-c&layout=compact&langs_count=10&title_color=5e64ff&text_color=cfdaff&bg_color=0,1a1b27,1a1b27&border_color=2f2f2f&theme=tokyonight" height="165" />
-</div>
+**westraffle** — a raffle and auction website. it works. people won things.
+
+**gossipgirl** — gossip girl themed blog platform. yes it's themed. yes it has the aesthetic.
+
+**Progress for Britain** — contributed heavily to the web platform, policy management system, onboarding flows, UI revamp, captcha, cloudflare setup, believe quiz, and more across the org.
 
 ---
 
-## 🌐 Links
+## where to find me
 
-🌍 Oakforge Studios — https://oakforgestudios.co.uk  
-🍺 Pintless — https://pintless.oakforgestudios.co.uk/  
-📚 Advanced Tutoring — https://advancedtutoring.uk  
-
----
-
-## 🧠 Currently Exploring
-
-- Local LLMs & AI tooling
-- Real-time multiplayer systems
-- Distributed infrastructure
-- High-performance backend architecture
-- Building products that scale beyond side-projects
+🌍 [tristans.club](https://www.tristans.club/) — personal site
+🏗 [oakforgestudios.co.uk](https://oakforgestudios.co.uk) — the studio
+🐦 [@retristanhill](https://twitter.com/retristanhill) — twitter
+📬 dev@hill.golf
 
 ---
 
-## ⚡ Fun Facts
+## tech i reach for
 
-- I enjoy building things **from scratch rather than using existing tools**.  
-- My ideal projects combine **engineering, chaos, and a slightly ridiculous idea**.
+TypeScript · React Native · Expo · Node.js · Prisma · PostgreSQL · WebSockets · Stripe · React · Next.js · Python · C++ · Docker
 
 ---
 
-*"If it sounds slightly too ambitious for one person to build… it's probably worth trying."*
+*"if it sounds slightly too ambitious for one person to build… it's probably worth trying."*
