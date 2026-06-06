@@ -26,17 +26,12 @@ feel free to poke around the repos. if something breaks, it was like that when y
 
 **InfinityWhiteboard** — infinite canvas whiteboard in vanilla JS, because sometimes you just need to draw everywhere.
 
-**westraffle** — a raffle and auction website. it works. people won things.
-
-**gossipgirl** — gossip girl themed blog platform. yes it's themed. yes it has the aesthetic.
-
 **Progress for Britain** — contributed heavily to the web platform, policy management system, onboarding flows, UI revamp, captcha, cloudflare setup, believe quiz, and more across the org.
 
 ---
 
 ## where to find me
 
-🌍 [tristans.club](https://www.tristans.club/) — personal site
 🏗 [oakforgestudios.co.uk](https://oakforgestudios.co.uk) — the studio
 🐦 [@retristanhill](https://twitter.com/retristanhill) — twitter
 📬 dev@hill.golf
