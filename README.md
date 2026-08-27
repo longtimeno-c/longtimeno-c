@@ -29,8 +29,8 @@ Most of my work sits at the intersection of real-time systems, mobile apps, and 
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[Pintless](https://pintless.oakforgestudios.co.uk)** | Social drink-tracking app on the App Store — achievements, location, pub-crawl events, home-screen widget, subscription paywall. | React Native · Expo · TypeScript |
 | **[Advanced Tutoring](https://advancedtutoring.uk)** | Full-stack tutoring platform: role-specific dashboards, scheduling, Stripe payments, video calling, collaborative whiteboard, mobile app. | Next.js · Prisma · PostgreSQL · Stripe |
+| **[Pintless](https://pintless.oakforgestudios.co.uk)** | Social drink-tracking app on the App Store — achievements, location, pub-crawl events, home-screen widget, subscription paywall. | React Native · Expo · TypeScript |
 | **[Missile Wars Revival](https://github.com/Missile-Wars-Revival)** | Real-time geolocation strategy game with live multiplayer state and 300+ followers at launch. | React Native · WebSockets · Prisma |
 
 ---
