@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="GitHub statistics for longtimeno-c">
+<rect width="900" height="260" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="40" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" fill="#58a6ff" font-weight="700">longtimeno-c · by the numbers</text>
+<rect x="28" y="58" width="196" height="76" rx="10" fill="#161b22" stroke="#30363d"/><text x="44" y="98" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="28" font-weight="700" fill="#e6edf3">22</text><text x="44" y="120" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">public repos</text>
+<rect x="240" y="58" width="196" height="76" rx="10" fill="#161b22" stroke="#30363d"/><text x="256" y="98" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="28" font-weight="700" fill="#e6edf3">1,451</text><text x="256" y="120" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">commits authored</text>
+<rect x="452" y="58" width="196" height="76" rx="10" fill="#161b22" stroke="#30363d"/><text x="468" y="98" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="28" font-weight="700" fill="#e6edf3">66</text><text x="468" y="120" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">PRs merged</text>
+<rect x="664" y="58" width="196" height="76" rx="10" fill="#161b22" stroke="#30363d"/><text x="680" y="98" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="28" font-weight="700" fill="#e6edf3">106</text><text x="680" y="120" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">PRs opened</text>
+<text x="28" y="170" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#8b949e">most used languages</text>
+<rect x="28" y="182" width="844" height="14" rx="7" fill="#21262d"/>
+<rect x="28.0" y="182" width="298.8" height="14" fill="#f1e05a"/>
+<rect x="326.8" y="182" width="189.6" height="14" fill="#3178c6"/>
+<rect x="516.4" y="182" width="157.3" height="14" fill="#a91e50"/>
+<rect x="673.7" y="182" width="129.7" height="14" fill="#3572a5"/>
+<rect x="803.4" y="182" width="46.5" height="14" fill="#e34c26"/>
+<rect x="849.9" y="182" width="22.1" height="14" fill="#f34b7d"/>
+<rect x="28" y="182" width="844" height="14" rx="7" fill="none" stroke="#0d1117" stroke-width="2"/>
+<circle cx="33" cy="218" r="5" fill="#f1e05a"/><text x="46" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#e6edf3">JavaScript</text><text x="131.0" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">35.4%</text>
+<circle cx="315" cy="218" r="5" fill="#3178c6"/><text x="328" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#e6edf3">TypeScript</text><text x="413.0" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">22.5%</text>
+<circle cx="597" cy="218" r="5" fill="#a91e50"/><text x="610" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#e6edf3">EJS</text><text x="643.9" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">18.6%</text>
+<circle cx="33" cy="242" r="5" fill="#3572a5"/><text x="46" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#e6edf3">Python</text><text x="101.8" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">15.4%</text>
+<circle cx="315" cy="242" r="5" fill="#e34c26"/><text x="328" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#e6edf3">HTML</text><text x="369.2" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">5.5%</text>
+<circle cx="597" cy="242" r="5" fill="#f34b7d"/><text x="610" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#e6edf3">C++</text><text x="643.9" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#8b949e">2.6%</text>
+</svg>
