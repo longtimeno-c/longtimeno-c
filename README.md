@@ -125,7 +125,7 @@ Away from the keyboard I build PCs and home servers, design segmented 10Gb netwo
 
 ## Education & awards
 
-**University of Reading** — BSc Computer Science with Year in Industry, 2025 – 2030  
+**University of Reading** — BSc Computer Science with Year in Industry, 2025 – 2029  
 Currently on a first after completing year one.  
 A-Levels in Computer Science, Mathematics and Geography. EPQ on AI in weather prediction, focused on Graph Neural Networks and NVIDIA's Earth-2 project.
 
