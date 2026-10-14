@@ -46,7 +46,6 @@ I spend a lot of time in the Expo / React Native ecosystem, upstreaming fixes wh
 
 - **[Stream150](https://watch.stream150.com)** — custom streaming platform I built and operated. Multi-camera and multi-desktop capture, custom HLS player, live polls, moderated chat, resilient WebSocket reconnection.
 - **[OUAS Flypro automation](https://github.com/longtimeno-c/flypro-booking)** — Google Apps Script that runs the squadron's weekly flying programme end to end: validates the week's flying, MT, duty-student and accommodation entries, generates the Flypro PDF and MT document, sends the notification emails, then locks and rolls the week over on a schedule.
-- **[TristanBio](https://github.com/longtimeno-c/TristanBio)** — my portfolio site. Next.js 15, TailwindCSS, Sanity CMS, Framer Motion, with project content pulled live from the CMS and GitHub.
 - **WebRTC calling system** — video calls with screen sharing, built on Daily.co.
 - **OBS tooling** — scene-specific replay cache plugin (C++), advanced scene switcher (Python), a Discord bot that auto-adds links as OBS scenes, and an NDI live indicator for multi-PC setups.
 - **Progress for Britain** — substantial contributions across the web platform: policy management system, onboarding flows, UI revamp, captcha, Cloudflare setup.
