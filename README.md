@@ -41,7 +41,6 @@ Most of my work sits at the intersection of real-time systems, mobile apps, and 
 I spend a lot of time in the Expo / React Native ecosystem, upstreaming fixes where I hit them rather than patching around them.
 
 - **[EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)** ![stars](https://img.shields.io/github/stars/EvanBacon/serve-sim?style=flat-square&label=&color=161b22&labelColor=161b22) — hosts an Apple Simulator over HTTP so agent tooling (Codex, Cursor, Claude) can drive it. My [PR #80](https://github.com/EvanBacon/serve-sim/pull/80) `merged` shipped a universal `arm64` + `x86_64` binary so the tool runs on Intel Macs, with a test suite asserting the built binary's architecture and executability. Currently working on [real-device support (#83)](https://github.com/EvanBacon/serve-sim/pull/83).
-- **[expo](https://github.com/longtimeno-c/expo/pull/1)** `in progress` — one-command macOS and tvOS support for Expo: config plugins, prebuild, and `run:macos`.
 
 ## Other work
 
