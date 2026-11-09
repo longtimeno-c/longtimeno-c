@@ -2,22 +2,22 @@
 <rect width="900" height="260" rx="14" fill="#ffffff" stroke="#d0d7de"/>
 <text x="28" y="40" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" fill="#0969da" font-weight="700">longtimeno-c · by the numbers</text>
 <rect x="28" y="58" width="196" height="76" rx="10" fill="#f6f8fa" stroke="#d0d7de"/><text x="44" y="98" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="28" font-weight="700" fill="#1f2328">23</text><text x="44" y="120" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">public repos</text>
-<rect x="240" y="58" width="196" height="76" rx="10" fill="#f6f8fa" stroke="#d0d7de"/><text x="256" y="98" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="28" font-weight="700" fill="#1f2328">3,321</text><text x="256" y="120" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">commits authored</text>
-<rect x="452" y="58" width="196" height="76" rx="10" fill="#f6f8fa" stroke="#d0d7de"/><text x="468" y="98" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="28" font-weight="700" fill="#1f2328">408</text><text x="468" y="120" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">PRs merged</text>
-<rect x="664" y="58" width="196" height="76" rx="10" fill="#f6f8fa" stroke="#d0d7de"/><text x="680" y="98" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="28" font-weight="700" fill="#1f2328">490</text><text x="680" y="120" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">PRs opened</text>
+<rect x="240" y="58" width="196" height="76" rx="10" fill="#f6f8fa" stroke="#d0d7de"/><text x="256" y="98" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="28" font-weight="700" fill="#1f2328">3,583</text><text x="256" y="120" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">commits authored</text>
+<rect x="452" y="58" width="196" height="76" rx="10" fill="#f6f8fa" stroke="#d0d7de"/><text x="468" y="98" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="28" font-weight="700" fill="#1f2328">441</text><text x="468" y="120" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">PRs merged</text>
+<rect x="664" y="58" width="196" height="76" rx="10" fill="#f6f8fa" stroke="#d0d7de"/><text x="680" y="98" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="28" font-weight="700" fill="#1f2328">512</text><text x="680" y="120" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">PRs opened</text>
 <text x="28" y="170" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#57606a">most used languages</text>
 <rect x="28" y="182" width="844" height="14" rx="7" fill="#eaeef2"/>
-<rect x="28.0" y="182" width="556.6" height="14" fill="#f34b7d"/>
-<rect x="584.6" y="182" width="103.2" height="14" fill="#a371f7"/>
-<rect x="687.9" y="182" width="60.4" height="14" fill="#f05138"/>
-<rect x="748.2" y="182" width="56.3" height="14" fill="#f0883e"/>
-<rect x="804.6" y="182" width="46.3" height="14" fill="#3572a5"/>
-<rect x="850.9" y="182" width="21.1" height="14" fill="#f1e05a"/>
+<rect x="28.0" y="182" width="556.7" height="14" fill="#f34b7d"/>
+<rect x="584.7" y="182" width="106.9" height="14" fill="#a371f7"/>
+<rect x="691.7" y="182" width="64.0" height="14" fill="#f05138"/>
+<rect x="755.6" y="182" width="57.7" height="14" fill="#f0883e"/>
+<rect x="813.3" y="182" width="41.0" height="14" fill="#3572a5"/>
+<rect x="854.3" y="182" width="17.7" height="14" fill="#f1e05a"/>
 <rect x="28" y="182" width="844" height="14" rx="7" fill="none" stroke="#ffffff" stroke-width="2"/>
 <circle cx="33" cy="218" r="5" fill="#f34b7d"/><text x="46" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#1f2328">C++</text><text x="79.9" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">66.0%</text>
-<circle cx="315" cy="218" r="5" fill="#a371f7"/><text x="328" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#1f2328">C#</text><text x="354.6" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">12.2%</text>
-<circle cx="597" cy="218" r="5" fill="#f05138"/><text x="610" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#1f2328">Swift</text><text x="658.5" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">7.2%</text>
-<circle cx="33" cy="242" r="5" fill="#f0883e"/><text x="46" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#1f2328">Objective-C++</text><text x="152.89999999999998" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">6.7%</text>
-<circle cx="315" cy="242" r="5" fill="#3572a5"/><text x="328" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#1f2328">Python</text><text x="383.8" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">5.5%</text>
-<circle cx="597" cy="242" r="5" fill="#f1e05a"/><text x="610" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#1f2328">JavaScript</text><text x="695.0" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">2.5%</text>
+<circle cx="315" cy="218" r="5" fill="#a371f7"/><text x="328" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#1f2328">C#</text><text x="354.6" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">12.7%</text>
+<circle cx="597" cy="218" r="5" fill="#f05138"/><text x="610" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#1f2328">Swift</text><text x="658.5" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">7.6%</text>
+<circle cx="33" cy="242" r="5" fill="#f0883e"/><text x="46" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#1f2328">Objective-C++</text><text x="152.89999999999998" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">6.8%</text>
+<circle cx="315" cy="242" r="5" fill="#3572a5"/><text x="328" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#1f2328">Python</text><text x="383.8" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">4.9%</text>
+<circle cx="597" cy="242" r="5" fill="#f1e05a"/><text x="610" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#1f2328">JavaScript</text><text x="695.0" y="246" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#57606a">2.1%</text>
 </svg>
